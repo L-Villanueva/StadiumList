@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  testWorldline
+
+  Created by Luis Villanueva Rivero on 16/3/23.
+  
+*/
+
+// MARK: - Main View
+
+"main_title"="Football stadium list";
+"main_delete"="Delete";
+"main_instructions"="To delete swipe item, to refresh pull down";
+"main_empty_list"="No stadium found, try again";
+"main_try_again"="Try Again";

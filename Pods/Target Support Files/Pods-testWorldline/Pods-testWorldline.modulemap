@@ -1,0 +1,6 @@
+framework module Pods_testWorldline {
+  umbrella header "Pods-testWorldline-umbrella.h"
+
+  export *
+  module * { export * }
+}

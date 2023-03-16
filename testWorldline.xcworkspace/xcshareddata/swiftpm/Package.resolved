@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "dependiject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Tiny-Home-Consulting/Dependiject.git",
+      "state" : {
+        "revision" : "1b201f2e624c1d2f6c39d55be2f81d01c2823878",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
